@@ -1,3 +1,6 @@
+# Use Jenkins to build ci/cd, scan code with sonarqube, build and push to Dockerhub
+![image](https://github.com/votruonglong/build-cicd-with-jenkins/assets/123948997/13d59385-29ce-412f-b7c9-56e20830acee)
+
 # Result pipeline 
 ![image](https://github.com/votruonglong/build-cicd-with-jenkins/assets/123948997/9d5d359d-d8bf-413f-be36-2f5471eb1867)
 
